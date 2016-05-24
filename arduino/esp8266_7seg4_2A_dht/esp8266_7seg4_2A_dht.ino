@@ -14,7 +14,7 @@ uint32_t mTimerTmpInit=30000;
 uint32_t mTimerTmp;
 uint32_t mTimerTime;
 
-String mAPI_KEY="TJE2K2OGGYHZI69A";
+String mAPI_KEY="your-API-key";
 static int mTypeURL_TEMP=1;
 static int mTypeURL_TIME=2;
 
